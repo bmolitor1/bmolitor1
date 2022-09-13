@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmolitor1
-- 👀 I’m interested in 
+- 👀 I’m interested in recreational coding
 - 🌱 I’m currently learning C because it's fun
 - 💞️ I’m looking to collaborate on ... nothing in particular, but i'm leaving all the default text in this lol
 - 📫 How to reach me:
