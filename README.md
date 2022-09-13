@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmolitor1
 - 👀 I’m interested in recreational coding
-- 🌱 I’m currently learning C because it's fun
+- 🌱 I’m currently learning C because it's everywhere and i want to see how far i can take it
 - 💞️ I’m looking to collaborate on ... nothing in particular, but i'm leaving all the default text in this lol
 - 📫 How to reach me:
   - 📷instagram: @ben.molitor
